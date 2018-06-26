@@ -7,11 +7,11 @@
 
 ## Table of Contents
 * [Feature](https://github.com/jShawnTsui/Computer-Vision/tree/master/Feature/)  
- * [NoisyAndConv.m](https://github.com/jShawnTsui/Computer-Vision/tree/master/Feature/NoisyAndConv.m) 
+ ** [NoisyAndConv.m](https://github.com/jShawnTsui/Computer-Vision/tree/master/Feature/NoisyAndConv.m) 
 
  > Gaussian Noise, Salt and Pepper Noise, Linear Filter, Gaussian Filter and Median Filter.
 
- * [Edge_Detecttion.m](https://github.com/jShawnTsui/Computer-Vision/tree/master/Feature/Edge_Detecttion.m)  
+ ** [Edge_Detecttion.m](https://github.com/jShawnTsui/Computer-Vision/tree/master/Feature/Edge_Detecttion.m)  
 
  > Partial Derivatives, Sober Operator, Roberts Operator, Prewitt Operator, Canny Edge Detection.  
 
