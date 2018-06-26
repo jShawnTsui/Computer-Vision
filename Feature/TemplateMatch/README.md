@@ -16,4 +16,5 @@ Waldo found after running program:
 </p>
 
 [Back to Computer Vision Projects List][1]
-[1]:https://github.com/jShawnTsui/Computer-Vision
+
+[1]: https://github.com/jShawnTsui/Computer-Vision
